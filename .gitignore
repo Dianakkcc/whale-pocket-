@@ -1,0 +1,25 @@
+# 本机登录、余额、外观与窗口状态
+config.json
+data/
+*.dpapi
+.env
+.env.*
+!.env.example
+auth.json
+.credentials.json
+.credentials.yaml
+*.db
+*.db-shm
+*.db-wal
+# 构建、测试与日志
+bin/
+test-results/
+*.exe
+*.pdb
+*.log
+*.tmp
+*.zip
+Thumbs.db
+.DS_Store
+.vs/
+.idea/

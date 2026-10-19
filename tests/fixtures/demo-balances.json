@@ -1,0 +1,14 @@
+{
+  "updatedAtMs": 1792368000000,
+  "catalog": [
+    {"id":"deepseek","kind":"deepseek","display":"DeepSeek","source":"虚构测试数据","origin":"https://api.deepseek.com"},
+    {"id":"relay_demo","kind":"relay","display":"MoMo API","source":"虚构测试数据","origin":"https://relay.example"},
+    {"id":"codex","kind":"codex","display":"Codex","source":"虚构测试数据","origin":""}
+  ],
+  "accounts": {
+    "deepseek":{"status":"ok","source":"演示余额（非真实）","views":[{"key":"balance","text":"¥12.34","ratio":0.75}]},
+    "relay_demo":{"status":"ok","source":"演示余额（非真实）","views":[{"key":"balance","text":"$5.00","ratio":0.5}]},
+    "codex":{"status":"ok","source":"演示额度（非真实）","views":[{"key":"5h","text":"80%","ratio":0.8},{"key":"week","text":"60%","ratio":0.6}]}
+  },
+  "notices": []
+}
